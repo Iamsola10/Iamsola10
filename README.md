@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning frontend web development 
 - 🌱 I’m currently learning HTML, CSS & JavaScript 
 - 💞️ I’m looking to collaborate on Interesting projects
-- 📫 How to reach me @ogedengbeoluwasola10@gmail.com
+- 📫 How to reach me ogedengbeoluwasola10@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a goal-getter
 
